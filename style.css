@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(senku.jpg);
+    background-size: cover;
+    color: #fff;
+    font-family: 'Akaya Telivigala', cursive;
+}
+p{
+    margin: 30px;
+    font-size: 30px;
+}
